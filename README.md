@@ -4,7 +4,7 @@ Working on [Advent of Code 2024](https://adventofcode.com/2024/)!
 
 Switched python to c++ after a couple of days, first days are double.
 
-![](https://img.shields.io/badge/stars%20⭐-19-yellow) ![](https://img.shields.io/badge/days%20completed-09-red)
+![](https://img.shields.io/badge/stars%20⭐-20-yellow) ![](https://img.shields.io/badge/days%20completed-09-red)
 
 | day | Problem             | Part one                 | Part two                 | Stars won                                            |
 |----:|:--------------------|:-------------------------|:-------------------------|:-----------------------------------------------------|
