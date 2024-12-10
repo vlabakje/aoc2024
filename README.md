@@ -4,7 +4,7 @@ Working on [Advent of Code 2024](https://adventofcode.com/2024/)!
 
 Switched python to c++ after a couple of days, first days are double.
 
-![](https://img.shields.io/badge/stars%20⭐-17-yellow) ![](https://img.shields.io/badge/days%20completed-08-red)
+![](https://img.shields.io/badge/stars%20⭐-19-yellow) ![](https://img.shields.io/badge/days%20completed-09-red)
 
 | day | Problem             | Part one                 | Part two                 | Stars won                                            |
 |----:|:--------------------|:-------------------------|:-------------------------|:-----------------------------------------------------|
@@ -16,7 +16,8 @@ Switched python to c++ after a couple of days, first days are double.
 |  06 | Guard Gallivant     | [**one**](day06/one.cpp) | [**two**](day06/two.cpp) | ![](https://img.shields.io/badge/stars%20⭐-1-yellow) |
 |  07 | Bridge Repair       | [**one**](day07/one.cpp) | [**two**](day07/two.cpp) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  08 | Resonant            | [**one**](day08/one.cpp) | [**two**](day08/two.cpp) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
-|  08 | Disk Defragmenter   | [**one**](day09/one.cpp) | [**two**](day09/two.cpp) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
+|  09 | Disk Defragmenter   | [**one**](day09/one.cpp) | [**two**](day09/two.cpp) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
+|  10 | Hoof it             | [**one**](day10/one.cpp) | [**two**](day10/two.cpp) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 
 *Badges from: https://github.com/J0B10/aoc-badges-action*
 
