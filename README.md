@@ -5,7 +5,7 @@ Working on [Advent of Code 2024](https://adventofcode.com/2024/)!
 Switched python to c++ after a couple of days, first days are double.
 Failed to do 13 p2 in c++, clearly a skill issue as the python one works.
 
-![](https://img.shields.io/badge/stars%20⭐-36-yellow) ![](https://img.shields.io/badge/days%20completed-18-red)
+![](https://img.shields.io/badge/stars%20⭐-38-yellow) ![](https://img.shields.io/badge/days%20completed-19-red)
 
 | day | Problem             | Part one                 | Part two                 | Stars won                                            |
 |----:|:--------------------|:-------------------------|:-------------------------|:-----------------------------------------------------|
@@ -25,6 +25,7 @@ Failed to do 13 p2 in c++, clearly a skill issue as the python one works.
 |  14 | Restroom Redoubt    | [**one**](day14/one.cpp) | [**two**](day14/two.cpp) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  15 | Warehouse Woes      | [**one**](day15/one.cpp) | [**two**](day15/two.cpp) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  17 | Chronospatial C     | [**one**](day17/one.cpp) | [**two**](day17/two.cpp) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
+|  18 | RAM Run             | [**one**](day18/one.cpp) | [**two**](day18/two.cpp) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  19 | Linen Layout        | [**one**](day19/one.cpp) | [**two**](day19/two.cpp) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  22 | Monkey Market       | [**one**](day22/one.cpp) | [**two**](day22/two.cpp) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 
